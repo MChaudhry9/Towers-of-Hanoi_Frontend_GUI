@@ -65,3 +65,8 @@ The Towers of Hanoi puzzle consists of three towers and a number of disks of dif
 1. Only one disk can be moved at a time.
 2. A disk can only be placed on top of a larger disk or on an empty tower.
 3. The objective is to move all disks from the start tower to the end tower using the fewest moves possible.
+
+## Screenshot
+![Screenshot](path/to/your/screenshot.png)
+
+
