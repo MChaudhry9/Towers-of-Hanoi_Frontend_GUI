@@ -67,6 +67,6 @@ The Towers of Hanoi puzzle consists of three towers and a number of disks of dif
 3. The objective is to move all disks from the start tower to the end tower using the fewest moves possible.
 
 ## Screenshot
-![Screenshot](path/to/your/screenshot.png)
+![Screenshot](towersOfHanoi_pic.png)
 
 
