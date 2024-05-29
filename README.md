@@ -9,6 +9,8 @@
 - [Setup](#setup)
 - [Gameplay](#gameplay)
 - [Rules Of The Game](#rules-of-the-game)
+- [Screenshot](#screenshot)
+
 
 ## Introduction
 
