@@ -17,7 +17,7 @@ The Towers of Hanoi is a classic puzzle game in computer science and mathematics
 ## Features
 
 - **Reset button** that allows the user to reset the game.
-- **Algorithm button** that the user can click when they resign, in this case, the game is solved for them and shows a step-by-step answer.
+- **Algorithm Solver button** that the user can click when they resign, in this case, the game is solved for them and shows a step-by-step answer.
 - **Update button** where the user can enter a new number of disks they want to play with.
 - Graphical user interface (GUI) for user-friendly interaction.
 - Visual representation of the towers and disks.
