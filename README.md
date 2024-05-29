@@ -12,7 +12,7 @@
 
 ## Introduction
 
-The Towers of Hanoi is a classic puzzle game in computer science and mathematics where the objective is to move a stack of disks from the first tower to the last tower, following specific rules. This repository provides the core backend implementation of the puzzle.
+The Towers of Hanoi is a classic puzzle game in computer science and mathematics where the objective is to move a stack of disks from the first tower to the last tower, following specific rules. This repository provides the frontend implementation of the puzzle.
 
 ## Features
 
