@@ -26,7 +26,7 @@ The Towers of Hanoi is a classic puzzle game in computer science and mathematics
 - Java Development Kit (JDK) 8 or higher.
 - JavaFX library (included in JDK 8 and later).
 - EclipseIDE (recommended)
-- WindowBuilder to make GUI [Latest Release]([[URL](https://download.eclipse.org/windowbuilder/updates/release/latest/)]
+- WindowBuilder to make GUI: [Latest Release](https://download.eclipse.org/windowbuilder/updates/release/latest/)
   
 ## Setup
 
