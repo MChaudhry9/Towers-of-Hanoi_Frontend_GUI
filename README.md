@@ -45,7 +45,10 @@ The Towers of Hanoi is a classic puzzle game in computer science and mathematics
 3. **Compile and run the code:**
    Compile and run the code using your IDE's built-in tools.
 
-   **In EclipseIDE righclick on project folder, click Run As, Click 1 Java Application**
+   **To Open In EclipseIDE:**
+   1. Righclick on project folder
+   2. Click Run As
+   3. Click 1 Java Application
 
 ## Gameplay 
 1. Start the game:
